@@ -1,4 +1,4 @@
-#### Run above in https://nbviewer.jupyter.org/ - for rendering jupyter notebook(.ipynb) if it fails to run
+###### Run above in https://nbviewer.jupyter.org/github/danturti/Reddit_Classification_Modelling_and_Web_Scraping/tree/master/- for rendering jupyter notebook(.ipynb) if it fails to render
 
 # Reddit_Classification_Modelling_and_Web_Scraping - Naive Bayes model Added to Update
 
